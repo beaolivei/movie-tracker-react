@@ -1,0 +1,17 @@
+.show-input{
+    margin-top: 20px;
+    padding: 0 20px;
+    color: black;
+    width: 700px;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+
+}
+.input-list{
+    background-color: white;
+    list-style: none;
+    line-height: 25px;
+    padding: 15px;
+    margin: -16px 0px;
+}

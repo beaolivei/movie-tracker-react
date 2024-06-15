@@ -1,0 +1,14 @@
+.header {
+  height: 150px;
+  background-image: url("./assets/simpson-background.png");
+  width: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-show{
+  display: flex;
+  justify-content: center;
+}
