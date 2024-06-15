@@ -1,0 +1,10 @@
+.show-card{
+    background-color: lightgray;
+    border-radius: 20px;
+    width: 200px;
+    padding: 10px 20px;
+}
+
+.show-card-p{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0
+}
+.header{
+    background-image: url('./assets/movieBanner.jpeg');
+    height: 150px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my-shows{
+    padding: 20px ;
+    display: flex;
+    gap: 20px;
+}
+.movie-list{
+    list-style: none;
+}
+.button-section{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    padding: 10px 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
